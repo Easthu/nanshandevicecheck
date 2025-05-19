@@ -1,6 +1,6 @@
 {
   "name": "nanshandevicecheck",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "查询并设置设备指纹",
   "main": "index.js",
   "author": "huhejie",

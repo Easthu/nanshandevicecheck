@@ -1,6 +1,6 @@
 import { jwtDecode } from 'jwt-decode';
 import JSONbig from 'json-bigint';
-import { aesEncrypt } from './utils/aescrypt.js';
+import { aesEncrypt } from './aescrypt';
 /**
  *
  * @param {*} key 获取的key
