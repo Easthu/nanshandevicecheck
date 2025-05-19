@@ -1,0 +1,16 @@
+{
+  "name": "nanshandevicecheck",
+  "version": "1.0.0",
+  "description": "查询并设置设备指纹",
+  "main": "index.js",
+  "author": "huhejie",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "crypto-js": "^4.2.0",
+    "json-bigint": "^1.0.0",
+    "jwt-decode": "^4.0.0"
+  }
+}
